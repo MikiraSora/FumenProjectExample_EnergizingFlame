@@ -1,0 +1,50 @@
+{
+  "Version": "0.5.4",
+  "Id": "157c06d4-1369-46c7-8558-2471bc01e179",
+  "AudioFilePath": "track.wav",
+  "AudioDuration": {
+    "Ticks": 1349333333
+  },
+  "EditorSetting": {
+    "DisableTGridMagneticDock": false,
+    "ForceXGridMagneticDock": false,
+    "DisableXGridMagneticDock": false,
+    "ForceTapHoldMagneticDockToLane": false,
+    "ForceMagneticDock": true,
+    "JudgeLineAlignBeat": false,
+    "AdjustPastedObjects": true,
+    "XGridUnitSpace": 4,
+    "BeatSplit": 2,
+    "XGridDisplayMaxUnit": 40,
+    "EnableXOffset": true,
+    "JudgeLineOffsetY": 50,
+    "XOffset": 0,
+    "VerticalDisplayScale": 0.75,
+    "DisplayTimeFormat": 0,
+    "LoopPlayTiming": false,
+    "ShowXOffsetScrollBar": true,
+    "MouseWheelLength": 50,
+    "IsNotifying": true
+  },
+  "FumenFilePath": "fumen.nyageki",
+  "RememberLastDisplayTime": {
+    "Ticks": 836075870
+  },
+  "StoreBulletPalleteEditorDatas": {
+    "A0": {
+      "Name": "\u5360\u4F4D",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    }
+  },
+  "IsNotifying": true
+}
